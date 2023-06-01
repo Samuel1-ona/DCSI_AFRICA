@@ -18,7 +18,7 @@ The DCSI Africa Tech Fellowship Program is open to individuals who are intereste
 
 # DATA SOURCE
 
-The team's research was done using Google forms as the data source. 
+The team's research was done using Google forms as the data source.  
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
