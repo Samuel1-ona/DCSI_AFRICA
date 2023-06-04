@@ -32,4 +32,18 @@ The team's research was done using Google forms as the data source.
 
 4. Intereted Tech Skills : All of the technical skills needed for the fellowship program are included in the column.
 
-Fellowship Program : All of the fellowships program modes are listed in the column. 
+5. Fellowship Program : All of the fellowships program modes are listed in the column. 
+
+6. Name : The Name column contains all the respondents names.
+
+7. Email : The Email coiumn contains all the respondents email.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Visualization 
+
+![Screenshot (632)](https://github.com/Samuel1-ona/DCSI_AFRICA/assets/68438893/868ba266-7055-4be9-ad49-5464330fe135)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# VISUAL AND INSIGHTS
